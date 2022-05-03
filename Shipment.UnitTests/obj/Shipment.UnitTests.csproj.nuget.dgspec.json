@@ -1,0 +1,212 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Ibrahim\\source\\repos\\ShipmentSystem\\Shipment.UnitTests\\Shipment.UnitTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ibrahim\\source\\repos\\ShipmentSystem\\Shipment.Application\\Shipment.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ibrahim\\source\\repos\\ShipmentSystem\\Shipment.Application\\Shipment.Application.csproj",
+        "projectName": "Shipment.Application",
+        "projectPath": "C:\\Users\\Ibrahim\\source\\repos\\ShipmentSystem\\Shipment.Application\\Shipment.Application.csproj",
+        "packagesPath": "C:\\Users\\Ibrahim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ibrahim\\source\\repos\\ShipmentSystem\\Shipment.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ibrahim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dxwand.pkgs.visualstudio.com/DXwand.Components/_packaging/DXwand.Nugets/nuget/v3/index.json": {},
+          "https://dxwand.pkgs.visualstudio.com/_packaging/Dxwand.Entities.Management/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Ibrahim\\source\\repos\\ShipmentSystem\\Shipment.Domain\\Shipment.Domain.csproj": {
+                "projectPath": "C:\\Users\\Ibrahim\\source\\repos\\ShipmentSystem\\Shipment.Domain\\Shipment.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Ibrahim\\source\\repos\\ShipmentSystem\\Shipment.Domain\\Shipment.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ibrahim\\source\\repos\\ShipmentSystem\\Shipment.Domain\\Shipment.Domain.csproj",
+        "projectName": "Shipment.Domain",
+        "projectPath": "C:\\Users\\Ibrahim\\source\\repos\\ShipmentSystem\\Shipment.Domain\\Shipment.Domain.csproj",
+        "packagesPath": "C:\\Users\\Ibrahim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ibrahim\\source\\repos\\ShipmentSystem\\Shipment.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ibrahim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dxwand.pkgs.visualstudio.com/DXwand.Components/_packaging/DXwand.Nugets/nuget/v3/index.json": {},
+          "https://dxwand.pkgs.visualstudio.com/_packaging/Dxwand.Entities.Management/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Ibrahim\\source\\repos\\ShipmentSystem\\Shipment.UnitTests\\Shipment.UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ibrahim\\source\\repos\\ShipmentSystem\\Shipment.UnitTests\\Shipment.UnitTests.csproj",
+        "projectName": "Shipment.UnitTests",
+        "projectPath": "C:\\Users\\Ibrahim\\source\\repos\\ShipmentSystem\\Shipment.UnitTests\\Shipment.UnitTests.csproj",
+        "packagesPath": "C:\\Users\\Ibrahim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ibrahim\\source\\repos\\ShipmentSystem\\Shipment.UnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ibrahim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dxwand.pkgs.visualstudio.com/DXwand.Components/_packaging/DXwand.Nugets/nuget/v3/index.json": {},
+          "https://dxwand.pkgs.visualstudio.com/_packaging/Dxwand.Entities.Management/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Ibrahim\\source\\repos\\ShipmentSystem\\Shipment.Application\\Shipment.Application.csproj": {
+                "projectPath": "C:\\Users\\Ibrahim\\source\\repos\\ShipmentSystem\\Shipment.Application\\Shipment.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.7, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.7, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

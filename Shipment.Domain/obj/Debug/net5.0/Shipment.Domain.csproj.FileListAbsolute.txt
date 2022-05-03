@@ -1,0 +1,11 @@
+C:\Users\Ibrahim\source\repos\ShipmentSystem\Shipment.Domain\bin\Debug\net5.0\Shipment.Domain.deps.json
+C:\Users\Ibrahim\source\repos\ShipmentSystem\Shipment.Domain\bin\Debug\net5.0\Shipment.Domain.dll
+C:\Users\Ibrahim\source\repos\ShipmentSystem\Shipment.Domain\bin\Debug\net5.0\ref\Shipment.Domain.dll
+C:\Users\Ibrahim\source\repos\ShipmentSystem\Shipment.Domain\bin\Debug\net5.0\Shipment.Domain.pdb
+C:\Users\Ibrahim\source\repos\ShipmentSystem\Shipment.Domain\obj\Debug\net5.0\Shipment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ibrahim\source\repos\ShipmentSystem\Shipment.Domain\obj\Debug\net5.0\Shipment.Domain.AssemblyInfoInputs.cache
+C:\Users\Ibrahim\source\repos\ShipmentSystem\Shipment.Domain\obj\Debug\net5.0\Shipment.Domain.AssemblyInfo.cs
+C:\Users\Ibrahim\source\repos\ShipmentSystem\Shipment.Domain\obj\Debug\net5.0\Shipment.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ibrahim\source\repos\ShipmentSystem\Shipment.Domain\obj\Debug\net5.0\Shipment.Domain.dll
+C:\Users\Ibrahim\source\repos\ShipmentSystem\Shipment.Domain\obj\Debug\net5.0\ref\Shipment.Domain.dll
+C:\Users\Ibrahim\source\repos\ShipmentSystem\Shipment.Domain\obj\Debug\net5.0\Shipment.Domain.pdb
